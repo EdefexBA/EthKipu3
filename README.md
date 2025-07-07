@@ -1,6 +1,6 @@
 # EthKipu3
 
-Trabajo práctio del módulo 3.
+Trabajo práctico del módulo 3.
 
 ### Contract URL:
 
